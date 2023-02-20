@@ -13,7 +13,7 @@ This software is for Land Seismic Data Acquistion crew. It will help to Plot Uph
 
 ## License agreement
 
-This software is dedicated to the public domain for free by the author, who wishes to share knowledge and promote passion for geosciences.
+This software is dedicated to the public domain for free by the author, ** who wishes to share knowledge and promote passion for geoscience **s.
 
 Please note that while the author has made this software available for free, there is no warranty or liability for its use. This software is provided as-is, without any warranty or liability from the author, and the user assumes all risks associated with its use.The user is responsible for testing and evaluating this software to ensure it is suitable for their needs before using it. The author of this software does not guarantee its quality, fitness for any particular purpose, or non-infringement, and shall not be held responsible for any damages resulting from its use.By using this software, you agree to accept all risks associated with its use, and you agree to hold the author harmless from any liability or damages resulting from your use of the software.Please note that while the author has made this software available for free, it is your responsibility to ensure that its use complies with all applicable laws, regulations, and ethical standards.
 
