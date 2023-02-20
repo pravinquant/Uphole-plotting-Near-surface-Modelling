@@ -21,10 +21,8 @@ Please note that while the author has made this software available for free, the
 By downloading or using the Software, Licensee/User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
 
 ## Installation/Usage
-The software can be launched by clicking the 
+The software can be launched by clicking the **NearSurfaceModeling.exe**
 
-## HelpFiles
-The help files for using this software has been included in the directory
 
 ## Contact details
 https://www.linkedin.com/in/praveen-kumar-k-4b044a253
