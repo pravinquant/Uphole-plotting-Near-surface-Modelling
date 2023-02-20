@@ -8,6 +8,7 @@ This software is for Land Seismic Data Acquistion crew. It will help to Plot Uph
 - Automatically fits the layers or piece-wise fitting of uphole (Time/Depth)TD curve.
 - Applies spherical divergence correction and displays the amplitude/Q factor of direct arrivals which helps in better discrimation of Lithology.
 - Prepares 3D Velcoity Model for shot hole depth optimization and estimate static corrections.
+- Maintains a single database for all the data
 - Export outputs as power-point presenations and .csv format. 
 
 ## License agreement
@@ -22,6 +23,9 @@ By downloading or using the Software, Licensee/User acknowledges that they have 
 
 ## Installation/Usage
 The software can be launched by clicking the **NearSurfaceModeling.exe**
+
+## Help
+Read the file "\PDF_help_Manuals\Getting_Started.pdf" to get started.
 
 ## Acknowledgements
 This software is developed using Microsoft Visual C# 2010 Express (Community edition) , BSD license based VTK Library (Open source) of KitwarePublic and a LGPL license based code for Radial Interpolation from https://people.sc.fsu.edu/~jburkardt/cpp_src/rbf_interp_2d/rbf_interp_2d.html. 3D Model viewer uses Qt Digia (Free/community version) and VTK.
