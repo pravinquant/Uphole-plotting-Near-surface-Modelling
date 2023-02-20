@@ -23,6 +23,8 @@ By downloading or using the Software, Licensee/User acknowledges that they have 
 ## Installation/Usage
 The software can be launched by clicking the **NearSurfaceModeling.exe**
 
+## Acknowledgements
+This software is developed using Microsoft Visual C# 2010 Express (Community edition) , BSD license based VTK Library (Open source) of KitwarePublic and a LGPL license based code for Radial Interpolation from https://people.sc.fsu.edu/~jburkardt/cpp_src/rbf_interp_2d/rbf_interp_2d.html. 3D Model viewer uses Qt Digia (Free/community version) and VTK.
 
 ## Contact details
 https://www.linkedin.com/in/praveen-kumar-k-4b044a253
