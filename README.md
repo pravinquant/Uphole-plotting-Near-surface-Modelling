@@ -13,19 +13,33 @@ This software is for Land Seismic Data Acquistion crew. It will help to Plot Uph
 
 ## Gallery
 - Uphole Data browser-1
+
 ![Screenshot](1.jpg)
+
 - Uphole Data browser-2
+-
 ![Screenshot](2.jpg)
+
 - Uphole Data browser-3
+
 ![Screenshot](7.jpg)
+
 - Uphole Plot
+
 ![Screenshot](3.jpg)
+
 - Lithology manager
+
 ![Screenshot](4.jpg)
+
 - Import Uphole Data
+-
 ![Screenshot](5.jpg)
+
 - 3D Model viewer
+-
 ![Screenshot](8.jpg)
+
 - Update static correction in SPS
 ![Screenshot](6.jpg)
 
