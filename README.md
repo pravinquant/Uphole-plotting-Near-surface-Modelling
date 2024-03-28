@@ -1,5 +1,5 @@
 # Uphole Plotting & Near Surface Modelling Tool
-This software is for Land Seismic Data Acquistion crew. It will help to Plot Upholes both (PP and PP-PS components), prepare 3D models and estimate field static corrections.
+This software is for Land Seismic Data Acquistion crew. It will help to Plot Upholes both (PP and PP-PS components), prepare 3D models,estimate field static corrections and write the static corrections directly to the SPS.
 
 ## Features
 
@@ -8,7 +8,8 @@ This software is for Land Seismic Data Acquistion crew. It will help to Plot Uph
 - Automatically fits the layers or piece-wise fitting of uphole (Time/Depth)TD curve.
 - Applies spherical divergence correction and displays the amplitude/Q factor of direct arrivals which helps in better discrimation of Lithology.
 - Prepares 3D Velcoity Model for shot hole depth optimization and estimate static corrections.
-- Maintains a single database for all the data
+- Write the static corrections to the SPS.
+- Maintains a single database for all the data.
 - Export outputs as power-point presenations and .csv format. 
 
 ## Gallery
